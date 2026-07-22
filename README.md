@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mateusz Kuczera - Qczer
 
-<!--
-**Qczer/Qczer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm a student and aspiring software developer looking for my first professional opportunity.
+I focus on building projects with modern technologies and continuously expanding my knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I’m currently learning
+
+- Modern C++
+- Advanced Nuxt
+- Neovim
+
+## Experience
+
+- I worked on a business website during an internship with a professional team using Nuxt, Vue, TS and Tailwind.
+- Collaborated with a small team to build applications from scratch.
+- Created personal projects covering web, mobile, desktop and backend.
+
+## Contact
+
+- Email: <mkuczera@proton.me>
+- Discord: qczer
+- Linkedin: [in/mateuszkuczera](https://www.linkedin.com/in/mateuszkuczera/)
